@@ -1,0 +1,1 @@
+# Este es un archivo para describir lo que es el repositorio, es un lugar donde almacenas código y puedes llevar un registro de los cambios realizados durante el tiempo mediante commits
