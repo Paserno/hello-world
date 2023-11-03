@@ -6,3 +6,6 @@ Este es un nuevo edit del archivo Readme del repositorio
 
 ## V 1.1.0
 Se realizaron pruebas con el repositorio remoto, esta es una nueva línea para probar el pull en el repositorio local
+
+## V 1.2.0
+Línea nueva creada desde la rama update-readme
